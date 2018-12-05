@@ -13,10 +13,10 @@ int ledStatus = 0;
 float R1;
 int long lt = 0;
 String ipAddress = "";
-//Lab
-const char* SSID_NAME = "***REMOVED***"; // Nombre SSID
-const char* SSID_PASS = "***REMOVED***"; // Contraseña
-//Casa
+//Configuracion WIFI 
+const char* SSID_NAME = "REPLACE"; // Nombre SSID
+const char* SSID_PASS = "REPLACE"; // Contraseña
+
 
 
 //SSL CLient

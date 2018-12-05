@@ -24,8 +24,8 @@ WiFiClientSecure client;
 
 
 // ------- Telegram config --------
-#define BOT_TOKEN "***REMOVED***"  // your Bot Token (Get from Botfather)
-#define CHAT_ID "***REMOVED***" // Chat ID of where you want the message to go (You can use MyIdBot to get the chat ID)
+#define BOT_TOKEN "REPLACE"  // your Bot Token (Get from Botfather)
+#define CHAT_ID "REPLACE" // Chat ID of where you want the message to go (You can use MyIdBot to get the chat ID)
 
 //Conectar al bot
 UniversalTelegramBot bot(BOT_TOKEN, client);
